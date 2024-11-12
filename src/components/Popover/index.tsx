@@ -183,7 +183,7 @@ export function EmbedChart({ color, ...props }) {
 
 	path += isDarkTheme ? '&theme=dark' : '&theme=light'
 
-	const url = `<iframe width="640px" height="360px" src="https://defillama.com/chart${path}" title="DefiLlama" frameborder="0"></iframe>`
+	const url = `<iframe width="640px" height="360px" src="https://defillama.com/chart${path}" title="The Stack" frameborder="0"></iframe>`
 
 	return (
 		<>

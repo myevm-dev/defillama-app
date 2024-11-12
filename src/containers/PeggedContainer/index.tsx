@@ -432,7 +432,7 @@ export const PeggedAssetInfo = ({
 											useTextColor={true}
 											color={backgroundColor}
 										>
-											<span>DeFiLlama Wiki</span>
+											<span>The Stack Wiki</span>
 											<Icon name="arrow-up-right" height={14} width={14} />
 										</Button>
 									</Link>

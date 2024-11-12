@@ -20,7 +20,7 @@ export const getStaticProps = withPerformanceLogging('index', async () => {
 
 export default function HomePage(props) {
 	return (
-		<Layout title="DefiLlama - DeFi Dashboard">
+		<Layout title="The Stack - DeFiLlama Provided Dashboard">
 			<ChainContainer {...props} />
 		</Layout>
 	)

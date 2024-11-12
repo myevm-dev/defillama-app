@@ -4,7 +4,7 @@ import { Panel } from '~/components'
 
 function AboutPage() {
 	return (
-		<Layout title="DefiLlama - DeFi Dashboard" defaultSEO>
+		<Layout title="The Stack - DeFiLlama Provided Dashboard" defaultSEO>
 			<h1 className="text-2xl font-medium mt-2 -mb-5">About</h1>
 			<Panel>
 				<div className="flex flex-col gap-4">

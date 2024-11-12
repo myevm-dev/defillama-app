@@ -24,7 +24,7 @@ export const getStaticProps = withPerformanceLogging('index/pro', async () => {
 export default function HomePage(props) {
 	return (
 		<WalletConfig>
-			<Layout title="DefiLlama - DeFi Dashboard">
+			<Layout title="The Stack - DeFiLlama Provided Dashboard">
 				<span className="ml-auto">
 					<ConnectButton />
 				</span>
